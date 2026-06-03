@@ -1,4 +1,4 @@
-# GlassMorphism Calculator
+# Calculator
 
 A modern calculator built using HTML, CSS, Bootstrap and JavaScript.
 
